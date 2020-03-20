@@ -9,10 +9,7 @@ public class Main {
 		System.out.println("彩画新增第一次！！！");
 		
 		
-		
-		
-		
-
+		System.out.println("AA1的分支代码");
 
     }
 }
